@@ -3,15 +3,20 @@
 # Changelog
 
 - [Changelog](#changelog)
-  - [3.10.1](#3101)
+  - [Next Version](#next-version)
+    - [New Features](#new-features)
     - [Bug Fixes](#bug-fixes)
     - [Documentation](#documentation)
     - [Development](#development)
-  - [3.10.0](#3100)
-    - [New Features](#new-features)
+  - [3.10.1](#3101)
     - [Bug Fixes](#bug-fixes-1)
     - [Documentation](#documentation-1)
     - [Development](#development-1)
+  - [3.10.0](#3100)
+    - [New Features](#new-features-1)
+    - [Bug Fixes](#bug-fixes-2)
+    - [Documentation](#documentation-2)
+    - [Development](#development-2)
   - [Previous versions](#previous-versions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -50,6 +55,26 @@ VS Code v0.00.0
 - item
 
 -->
+
+## Next Version
+
+VS Code v1.56.1
+
+### New Features
+
+- item
+
+### Bug Fixes
+
+- fix: use sufficient computational effort for password hash #3422 @jsjoeio
+
+### Documentation
+
+- item
+
+### Development
+
+- item
 
 ## 3.10.1
 
